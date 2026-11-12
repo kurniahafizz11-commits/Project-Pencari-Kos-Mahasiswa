@@ -1,6 +1,6 @@
 # Pencari Kos Mahasiswa
 
-**Kelompok 2**  
+**Kelompok 3**  
 **Ketua:** Rafly Syahputra-251401122  
 **Anggota:**  
 - Kurnia Hafiz Arrasyid-251401008
